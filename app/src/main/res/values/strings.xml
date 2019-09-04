@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Fragment Communication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment One</string>
+    <string name="text_String_F2">Fragment Two</string>
+
+    <string-array name="list_data">
+        <item>Cookbook</item>
+        <item>Mashup-cookbook</item>
+        <item>Java-hello</item>
+        <item>Java-cookbook</item>
+        <item>Java-properties</item>
+        <item>Java-error</item>
+        <item>Policy</item>
+        <item>Sample API</item>
+        <item>Reference and Tools</item>
+        <item>Apigee-127</item>
+        <item>Target-reroute</item>
+        <item>Twitter-mobile-timeline</item>
+        <item>variables</item>
+        <item>Soap</item>
+        <item>Response-cache</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Demonstrates a simple JavaScript snippet that adds HTTP headers from variables, transforms an XML-formatted weather report from JSON to XML, and trims content down for mobile clients.</item>
+        <item>A complete JavaScript application that calls to public APIs, combines results, and generates an enriched response for the client app. (Note: this API proxy implements the same functionality as the policy-mashup, demonstrating that the same problem can be addressed using different techniques.)</item>
+        <item>Simple hello world Java callout.</item>
+        <item>Converts response content and headers to uppercase.</item>
+        <item>Demonstrates how to use properties in a Java callout.</item>
+        <item>Demonstrates error handling patterns that you can use in Java Callout code.</item>
+        <item>A complete application that uses policy composition to call two public APIs, combines results, and generates an enriched response for the client app. (Note: this API proxy implements the same functionality as the javascript-mashup, demonstrating that the same problem can be addressed using different techniques.)</item>
+        <item>The following API proxies are located in GitHub, where the readme pages provide detailed descriptions of the samples. If you\'re interested in how a particular policy works in a sample, look in the Policy Types column below for the one you\'re interested in, then click the sample name in the Name column. (The policies are linked to their respective reference pages in the docs.)</item>
+        <item>In addition to the doc cookbook samples and sample proxies in the tables above, the Edge GitHub samples also contain these resources:</item>
+        <item>The regular expression threat protection policy can protect your backend APIs and microservices from SQL injection attacks.</item>
+        <item>You are implementing the OAuth Password grant type flow. You need to validate both the application client key and secret on Edge before calling an outside Identity Provider to validate the user\'s credentials.</item>
+        <item>This proxy lets you easily try out and test conditional statements in an API proxy flow.</item>
+        <item>Shows how to retrieve profiles for entities from the Apigee Edge datastore.</item>
+        <item>Demonstrates a simple asynchronous callout using the JavaScript httpClient.</item>
+        <item>Demonstrates how to call JavaScript includes from JavaScript resources in API proxies.</item>
+
+    </string-array>
+
+</resources>
